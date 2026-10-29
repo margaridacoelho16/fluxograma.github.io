@@ -1,0 +1,152 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="nmDebouz0ULlhYnMUX_e">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aeatGkU1seXihN49Owov-3" edge="1" parent="1" source="aeatGkU1seXihN49Owov-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="aeatGkU1seXihN49Owov-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeatGkU1seXihN49Owov-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Iniciar" vertex="1">
+          <mxGeometry height="60" width="140" x="340" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aeatGkU1seXihN49Owov-5" edge="1" parent="1" source="aeatGkU1seXihN49Owov-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="aeatGkU1seXihN49Owov-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aeatGkU1seXihN49Owov-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Processador começa por ligar o sistema operativo&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="130" x="340" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-2" edge="1" parent="1" source="aeatGkU1seXihN49Owov-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontColor=light-dark(#128c12, #008f00);fontStyle=1" value="Sim">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeatGkU1seXihN49Owov-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Sistema consegue detetar as garrafas?" vertex="1">
+          <mxGeometry height="100" width="140" x="335" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-7" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404.5" y="500" as="sourcePoint" />
+            <mxPoint x="404.5" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeatGkU1seXihN49Owov-8" edge="1" parent="1" source="aeatGkU1seXihN49Owov-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;fontStyle=1;fontColor=#FF0000;" value="Não">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="Aguardar nova garrafa" vertex="1">
+          <mxGeometry height="60" width="140" x="610" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-23" edge="1" parent="1" source="TdjWPfxZ1CqoUHkWiShS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="TdjWPfxZ1CqoUHkWiShS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Colocar a rolha" vertex="1">
+          <mxGeometry height="50" width="160" x="340" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Encher a garrafa" vertex="1">
+          <mxGeometry height="50" width="160" x="340" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-24" edge="1" parent="1" source="TdjWPfxZ1CqoUHkWiShS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="TdjWPfxZ1CqoUHkWiShS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Aplicar rótulo personalizado" vertex="1">
+          <mxGeometry height="50" width="160" x="340" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-25" edge="1" parent="1" source="TdjWPfxZ1CqoUHkWiShS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-26" edge="1" parent="1" source="TdjWPfxZ1CqoUHkWiShS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="TdjWPfxZ1CqoUHkWiShS-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Qual o tipo de rótulo escolhido?" vertex="1">
+          <mxGeometry height="90" width="140" x="350" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Opção 1: Aplicar rótulo com cola (autocolante)" vertex="1">
+          <mxGeometry height="60" width="170" x="50" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Opção 2: Aplicar rótulo a laser" vertex="1">
+          <mxGeometry height="60" width="160" x="590" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-28" edge="1" parent="1" source="TdjWPfxZ1CqoUHkWiShS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="949.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Verificar o rótulo" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-31" edge="1" parent="1" source="TdjWPfxZ1CqoUHkWiShS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fontStyle=1;fontColor=#007B00;" value="Sim">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="990.1176470588236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-32" edge="1" parent="1" source="TdjWPfxZ1CqoUHkWiShS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontStyle=1;fontColor=light-dark(#ed0c0c, #ededed);" value="Não">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="989.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-34" edge="1" parent="1" source="TdjWPfxZ1CqoUHkWiShS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="TdjWPfxZ1CqoUHkWiShS-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-20" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="O rótulo está correto?" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Garrafa pronta" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="Assinalar o erro e parar o processo&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Fim" vertex="1">
+          <mxGeometry height="70" width="120" x="360" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-40" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="680" y="180" as="sourcePoint" />
+            <mxPoint x="470" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-42" edge="1" parent="1" source="TdjWPfxZ1CqoUHkWiShS-8" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="240" as="sourcePoint" />
+            <mxPoint x="680" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-44" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.7818" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="840" />
+            </Array>
+            <mxPoint x="120" y="840" as="sourcePoint" />
+            <mxPoint x="670" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-45" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="840" as="sourcePoint" />
+            <mxPoint x="120" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-46" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="TdjWPfxZ1CqoUHkWiShS-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="669.5" y="840" as="sourcePoint" />
+            <mxPoint x="669.5" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdjWPfxZ1CqoUHkWiShS-47" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="419.5" y="840" as="sourcePoint" />
+            <mxPoint x="419.5" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
